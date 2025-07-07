@@ -14,7 +14,7 @@ A beautiful and interactive to-do list application built with React and modern C
 
 ## Live Demo
 
-🌐 **[View Live Site]( )**
+🌐 **[View Live Site](https://rllz0.github.io/to-do-list-js/)**
 
 ## Screenshots
 ![Screenshot](./src/assets/To%20do%20List.png)
